@@ -1,0 +1,64 @@
+{
+    "faqs": [
+        {
+            "question": "What is a CPU?",
+            "answer": "A CPU (Central Processing Unit) is the brain of your PC. It handles all the instructions from programs. Popular choices are Intel Core i5/i7 and AMD Ryzen 5/7."
+        },
+        {
+            "question": "What is a GPU?",
+            "answer": "A GPU (Graphics Processing Unit) handles graphics and gaming. For gaming, consider NVIDIA RTX 3060 or AMD RX 6600 as mid-range options."
+        },
+        {
+            "question": "How much RAM do I need for gaming?",
+            "answer": "16GB RAM is the sweet spot for gaming in 2024. 8GB is the minimum, and 32GB is ideal for gaming and streaming simultaneously."
+        },
+        {
+            "question": "What is a motherboard?",
+            "answer": "A motherboard is the main circuit board that connects all PC components together. Make sure it's compatible with your CPU socket type."
+        },
+        {
+            "question": "What is the difference between Intel and AMD?",
+            "answer": "Intel excels in single-core performance and is great for gaming. AMD offers better multi-core performance and value for money, ideal for content creation."
+        },
+        {
+            "question": "What power supply do I need?",
+            "answer": "Calculate your total system power consumption and add 20% headroom. A 650W PSU is good for most gaming builds. Always choose 80+ Gold certified PSUs."
+        },
+        {
+            "question": "What is the difference between SSD and HDD?",
+            "answer": "SSDs are much faster than HDDs and are ideal for your OS and games. HDDs are cheaper and better for mass storage. A combination of both is recommended."
+        },
+        {
+            "question": "What is a CPU cooler?",
+            "answer": "A CPU cooler prevents your processor from overheating. Stock coolers work for basic use, but for gaming or overclocking, get an aftermarket air or liquid cooler."
+        },
+        {
+            "question": "What is thermal paste?",
+            "answer": "Thermal paste fills microscopic gaps between your CPU and cooler, improving heat transfer. Apply a pea-sized amount in the center of the CPU."
+        },
+        {
+            "question": "What PC case should I buy?",
+            "answer": "Choose a case based on your motherboard size (ATX, Micro-ATX, Mini-ITX), airflow quality, and cable management options. Make sure all components fit inside."
+        },
+        {
+            "question": "What is overclocking?",
+            "answer": "Overclocking means running your CPU or GPU faster than its default speed. It improves performance but generates more heat and requires better cooling."
+        },
+        {
+            "question": "What is the difference between ATX and Micro-ATX motherboards?",
+            "answer": "ATX motherboards are larger with more expansion slots. Micro-ATX are smaller and cheaper with fewer slots. Choose based on your case size and expansion needs."
+        },
+        {
+            "question": "How do I choose a gaming monitor?",
+            "answer": "For gaming, look for at least 144Hz refresh rate, 1ms response time, and 1080p or 1440p resolution. IPS panels offer better colors while TN panels are faster."
+        },
+        {
+            "question": "What is RAM speed and does it matter?",
+            "answer": "RAM speed is measured in MHz. Faster RAM improves performance especially with AMD Ryzen CPUs. DDR4 3200MHz is the sweet spot for most gaming builds."
+        },
+        {
+            "question": "How do I build a budget gaming PC?",
+            "answer": "For a budget build, consider AMD Ryzen 5 CPU, 16GB DDR4 RAM, NVIDIA RTX 3060 or AMD RX 6600 GPU, 500GB SSD, and a B550 motherboard. Total budget around $600-800."
+        }
+    ]
+}
